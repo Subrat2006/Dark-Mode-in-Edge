@@ -12,6 +12,6 @@ So, you just need to follow the following steps:
 6. Now, your Dark Mode is ready.
 
 It must be looking like this in the browser:
-![image](https://user-images.githubusercontent.com/77664529/166961044-05dc5f2b-f538-4224-a7a6-829be22dd7e4.png)
+
 
 Now, you got your work done!
