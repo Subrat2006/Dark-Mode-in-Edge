@@ -7,7 +7,7 @@ So, you just need to follow the following steps:
 1. Open your Edge browser.
 2. Go to the site:- `edge://flags/`.
 3. Search for `Auto Dark Mode for Web Contents`.
-4. Made it *Enabled*.
+4. Make it *Enabled*.
 5. Restart your browser.
 6. Now, your Dark Mode is ready.
 
